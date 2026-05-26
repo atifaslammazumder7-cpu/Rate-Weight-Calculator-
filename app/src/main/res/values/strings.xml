@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rate&amp;Weight Calculator</string>
+    <string name="tagline">Calculate Weight. Get Rate. Save Time.</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="calculator_tab">Calculator</string>
+    <string name="history_tab">History</string>
+    <string name="settings_tab">Settings</string>
+
+    <!-- UI Fields -->
+    <string name="weight_label">Weight</string>
+    <string name="rate_label">Rate</string>
+    <string name="total_label">Total Amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear_all">Clear All</string>
+    <string name="reverse_calc_title">Reverse Calculations Available</string>
+    
+    <!-- Units -->
+    <string name="unit_kg">kg</string>
+    <string name="unit_gram">gram</string>
+    <string name="unit_quintal">quintal</string>
+    <string name="unit_ton">ton</string>
+
+    <!-- Rate Types -->
+    <string name="rate_per_kg">per kg</string>
+    <string name="rate_per_gram">per gram</string>
+    <string name="rate_per_quintal">per quintal</string>
+    <string name="rate_per_ton">per ton</string>
+    <string name="rate_custom">custom</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Calculation History</string>
+    <string name="history_empty">No history yet</string>
+    <string name="history_empty_desc">Calculations will appear here</string>
+    <string name="history_deleted">Calculation deleted</string>
+    <string name="clear_history">Clear History</string>
+    <string name="export_success">History exported successfully!</string>
+    <string name="export_failed">Export failed</string>
+    <string name="export_history">Export History (CSV)</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="theme_setting">App Theme</string>
+    <string name="theme_dark">Dark Mode</string>
+    <string name="theme_light">Light Mode</string>
+    <string name="theme_system">System Default</string>
+    
+    <!-- Languages -->
+    <string name="lang_setting">App Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_hi">हिन्दी (Hindi)</string>
+    <string name="lang_es">Español (Spanish)</string>
+    <string name="lang_bn">বাংলা (Bengali)</string>
+    
+    <!-- Actions -->
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    
+    <!-- Placeholders & Messages -->
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_rate">Enter Rate</string>
+    <string name="enter_total">Enter Total</string>
+</resources>

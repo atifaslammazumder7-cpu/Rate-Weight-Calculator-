@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calc Tasa y Peso</string>
+    <string name="tagline">Calcular Peso. Obtener Tasa. Ahorrar Tiempo.</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="calculator_tab">Calculadora</string>
+    <string name="history_tab">Historial</string>
+    <string name="settings_tab">Ajustes</string>
+
+    <!-- UI Fields -->
+    <string name="weight_label">Peso</string>
+    <string name="rate_label">Tasa / Precio</string>
+    <string name="total_label">Monto Total</string>
+    <string name="calculate">Calcular</string>
+    <string name="clear_all">Limpiar Todo</string>
+    <string name="reverse_calc_title">Cálculos inversos disponibles</string>
+    
+    <!-- Units -->
+    <string name="unit_kg">kg</string>
+    <string name="unit_gram">gramo</string>
+    <string name="unit_quintal">quintal</string>
+    <string name="unit_ton">tonelada</string>
+
+    <!-- Rate Types -->
+    <string name="rate_per_kg">por kg</string>
+    <string name="rate_per_gram">por gramo</string>
+    <string name="rate_per_quintal">por quintal</string>
+    <string name="rate_per_ton">por tonelada</string>
+    <string name="rate_custom">personalizado</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Historial de Cálculos</string>
+    <string name="history_empty">No hay historial aún</string>
+    <string name="history_empty_desc">Los cálculos aparecerán aquí</string>
+    <string name="history_deleted">Cálculo eliminado</string>
+    <string name="clear_history">Limpiar Historial</string>
+    <string name="export_success">¡Historial exportado con éxito!</string>
+    <string name="export_failed">Exportación fallida</string>
+    <string name="export_history">Exportar Historial (CSV)</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Ajustes</string>
+    <string name="theme_setting">Tema de la App</string>
+    <string name="theme_dark">Modo Oscuro</string>
+    <string name="theme_light">Modo Claro</string>
+    <string name="theme_system">Predeterminado del Sistema</string>
+    
+    <!-- Languages -->
+    <string name="lang_setting">Idioma de la App</string>
+    <string name="lang_en">English</string>
+    <string name="lang_hi">हिन्दी (Hindi)</string>
+    <string name="lang_es">Español (Spanish)</string>
+    <string name="lang_bn">বাংলা (Bengali)</string>
+    
+    <!-- Actions -->
+    <string name="copy">Copiar</string>
+    <string name="share">Compartir</string>
+    <string name="copied_to_clipboard">Copiado al portapapeles</string>
+    
+    <!-- Placeholders & Messages -->
+    <string name="enter_weight">Ingrese Peso</string>
+    <string name="enter_rate">Ingrese Tasa</string>
+    <string name="enter_total">Ingrese Total</string>
+</resources>

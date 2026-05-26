@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sophisticated Background highlight to give depth -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,12 C77.19,12 96,30.81 96,54 C96,77.19 77.19,96 54,96 C30.81,96 12,77.19 12,54 C12,30.81 30.81,12 54,12 Z" />
+
+    <!-- Scale Pillar / Base (Representing Calculation Foundation) -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M52,38 H56 V72 H52 Z M42,72 H66 V76 H42 Z" />
+
+    <!-- Balance Scale Beam -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M32,44 C32,43.5 54,40 54,40 C54,40 76,43.5 76,44 C76,44.5 76,45 76,45 L54,42 L32,45 C32,45 32,44.5 32,44 Z" />
+
+    <!-- Left Pan (Weight Side) -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M24,47v3l8,12h12l8-12v-3H24z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M38,44 L38,47 M30,44 L30,47" />
+
+    <!-- Right Pan (Rate/Price Card Side) -->
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M56,47v3l8,12h12l8-12v-3H56z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M70,44 L70,47 M62,44 L62,47" />
+
+    <!-- Overlaid Golden Currency Symbol (Business / Value) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,22 C51.79,22 50,23.79 50,26 C50,28.21 51.79,30 54,30 C56.21,30 58,28.21 58,26 C58,23.79 56.21,22 54,22 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M53.5,18 h1 c1.5,0 2.5,1 2.5,2.5 a2.5,2.5 0 0 1 -2.5,2.5 h-1 z m0,5 h1 c1.5,0 2.5,1 2.5,2.5 a2.5,2.5 0 0 1 -2.5,2.5 h-1 z M51,16 h5 v2 h-5 z M52,28 h4" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Rate&Weight Calculator",
+  "description": "Calculate weight and rate quickly and accurately with support for reverse calculation, history, custom keypad, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
